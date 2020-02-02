@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_height="match_parent"
+    android:layout_width="wrap_content"
+    android:id="@+id/main_menu">
+
+    <item
+        android:id="@+id/options"
+        android:title="options"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_more_vert_black_18dp" >
+
+        <menu>
+
+            <item android:id="@+id/logout"
+                app:showAsAction="ifRoom"
+                android:title="Log out"/>
+
+            <item android:id="@+id/changeStatus"
+                app:showAsAction="ifRoom"
+                android:title="Change Status" />
+
+            <item android:id="@+id/details"
+                app:showAsAction="ifRoom"
+                android:title="Booking Details" />
+
+            <item android:id="@+id/printInvoice"
+                app:showAsAction="ifRoom"
+                android:title="Print invoice" />
+
+            <item android:id="@+id/printSchedule"
+                app:showAsAction="ifRoom"
+                android:title="Print schedule" />
+
+            <item android:id="@+id/selectAll"
+                app:showAsAction="ifRoom"
+                android:title="Select All" />
+
+            <item android:id="@+id/selectNone"
+                app:showAsAction="ifRoom"
+                android:title="Select None" />
+
+        </menu>
+
+    </item>
+
+</menu>

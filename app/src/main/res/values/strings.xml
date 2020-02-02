@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ger\'s Garage</string>
+
+    <string name="make_prompt">Choose a make of Vehicle *</string>
+    <string name="type_prompt">Choose a type of Vehicle *</string>
+    <string name="engine_prompt">Choose a engine type *</string>
+    <string name="mechanic_prompt">Choose a mechanic</string>
+    <string name="vehicle_prompt">Choose a vehicle</string>
+    <string name="shift_prompt">Book available time</string>
+    <string name="typeOfBooking_prompt">Choose a type of Booking</string>
+    <string name="confirm_dialog_message">Are you sure you want to update the status?</string>
+    <string name="confirm_dialog_print_message">print?</string>
+
+    <string name="confirm_dialog_title">Update booking status</string>
+    <string name="confirm_dialog_confirm">Ok</string>
+    <string name="confirm_dialog_cancel">Cancel</string>
+
+
+</resources>
