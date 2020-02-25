@@ -5,3 +5,5 @@ The application allow a user to make a booking and display all the bookings. Thi
 allocate mechanics, change status of the bookings and print a schedule (Pdf document)
 
 I used Android Studio IDE, Java Programming Language and Firebase (Firestore and Authentication Service)
+
+Final Project - Jorge Robla - 2019070.pdf (Documentation)
