@@ -1,0 +1,24 @@
+1. create database (MySQL Workbench -> RDMS). .sql file is in ./sql-script/
+2. Run $ sudo systemctl status mysql (Linux Ubuntu) to check if mysql service is running
+3. Upload webpage in a HTTP Server (For example : if it is Apache, put files in /var/www/html)
+4. We need to enable MySQLi extension for PHP on a Linux (Ubuntu) machine. The MySQLi extension helps us interact with the MySQL database using PHP. It has support for object-oriented programming and procedural programming styles. First, we need to have PHP and MySQL installed on the system.
+For example, on Ubuntu:
+
+$ sudo apt-get update
+$ sudo apt-get install php mysql-server php-mysql
+
+The MySQLi extension is often available by default with PHP. However, if not, then make sure to install it using the below commands explicitly:
+
+$ sudo apt-get install php-mysqli
+
+Let’s verify the current status of the MySQLi extension using the below command:
+
+$ php -m | grep mysqli
+
+If the MySQLi extension is enabled, we’ll see mysqli in the output. Otherwise, the output will be empty.
+
+Information got from -> https://www.baeldung.com/linux/mysqli-extension-activate
+
+5. Run $ sudo systemctl status apache2 (Linux Ubuntu) to check if Apache service is running.
+
+6. Launch a browser and enter this URL: http://localhost/. You will see the homepage.
