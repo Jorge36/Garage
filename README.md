@@ -11,11 +11,18 @@ In ./Documentation/, we can find documentation and more information about the pr
 2. eGarage - Jorge Robla - 2019070.pptx (Presentation)
 3. flow and screens.docx (documentation)
 
-In ./testing/, we can find videos about the mobile application (testing functionalities).
+In ./testing/, we can find videos about the mobile application (testing functionalities). Below, I paste screenshots of the mobile application.
+
+![alt text](https://github.com/Jorge36/Garage/blob/75272d5db23a387ce74264b41494cd72277891f9/Documentation/imgMobApp/booking.png)
+
+![alt text](https://github.com/Jorge36/Garage/blob/75272d5db23a387ce74264b41494cd72277891f9/Documentation/imgMobApp/booking2.png)
+
+![alt text](https://github.com/Jorge36/Garage/blob/75272d5db23a387ce74264b41494cd72277891f9/Documentation/imgMobApp/list_bookings.png)
+
+![alt text](https://github.com/Jorge36/Garage/blob/75272d5db23a387ce74264b41494cd72277891f9/Documentation/imgMobApp/print.png)
 
 In ./WebSite/, there is a website version of Garage to be run on the browser (plus documentation and a file for installation).
-Below, I paste the screenshots of the website.
-
+Below, I paste screenshots of the website.
 
 ![alt text](https://github.com/Jorge36/Garage/blob/b0f22e59155be9884ab2faefdf279b36cf1c3938/Version%20Website/imgWebSite/admin_home_page.png)
 
