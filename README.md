@@ -17,6 +17,6 @@ In ./WebSite/, there is a website version of Garage to be run on the browser (pl
 Below, I paste the screenshots of the website.
 
 
-![alt text](Version Website/imgWebSite/register.png)
+![alt text](https://github.com/Jorge36/Garage/blob/fef5c4dc79718f767bcbdc378cb963e0eaf0b21e/Version%20Website/imgWebSite/register.png)
 
 
