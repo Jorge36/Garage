@@ -21,6 +21,8 @@ In ./testing/, we can find videos about the mobile application (testing function
 
 ![alt text](https://github.com/Jorge36/Garage/blob/75272d5db23a387ce74264b41494cd72277891f9/Documentation/imgMobApp/print.png)
 
+In ./Documentation/ we can find a video (Presentation final.mp4) showing functionalities of Garage mobile application.
+
 In ./WebSite/, there is a website version of Garage to be run on the browser (plus documentation and a file for installation).
 Below, I paste screenshots of the website.
 
