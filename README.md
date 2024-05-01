@@ -11,7 +11,7 @@ In ./Documentation/, we can find documentation and more information about the pr
 2. eGarage - Jorge Robla - 2019070.pptx (Presentation)
 3. flow and screens.docx (documentation)
 
-In ./testing/, we can find videos about the mobile application (testing functionalities). Below, I paste screenshots of the mobile application.
+In ./testing/, we can find videos in which we see the mobile application running. Below, I add screenshots of the mobile application.
 
 ![alt text](https://github.com/Jorge36/Garage/blob/75272d5db23a387ce74264b41494cd72277891f9/Documentation/imgMobApp/booking.png)
 
