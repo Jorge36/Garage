@@ -10,6 +10,7 @@ In ./Documentation/, we can find documentation and more information about the pr
 1. Final Project - Jorge Robla - 2019070.pdf (Documentation)
 2. eGarage - Jorge Robla - 2019070.pptx (Presentation)
 3. flow and screens.docx (documentation)
+4. Presentation final.mp4 (video displaying functionalities of the application)
 
 In ./testing/, we can find videos in which we see the mobile application running. Below, I add screenshots of the mobile application.
 
